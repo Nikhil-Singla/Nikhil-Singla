@@ -1,11 +1,18 @@
 <div align="center">
-  <img height="107" src="https://piskel-imgstore-b.appspot.com/img/f1bed838-7eee-11e8-86ee-8769e87cfcec.gif"  />
+
+  [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png)](https://pokemondb.net/pokedex/bulbasaur)
+  [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/normal/charmander.png)](https://pokemondb.net/pokedex/charmander)
+  [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/normal/squirtle.png)](https://pokemondb.net/pokedex/squirtle)
+  
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nsingla/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  </a>
+ &#9;  &#9;  You can connect with me on LinkedIn Here!!  
 </div>
 
 ###
