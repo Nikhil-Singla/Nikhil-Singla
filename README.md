@@ -1,18 +1,24 @@
-<div align="center">
-
-  [![Bulbasaur](https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png)](https://github.com/Nikhil-Singla/the-recreational-center)
-  &nbsp;&nbsp;&nbsp;
-  [![Squirtle](https://img.pokemondb.net/sprites/black-white/normal/squirtle.png)](https://github.com/Nikhil-Singla/the-dev-dossier)
-  &nbsp;&nbsp;&nbsp;
-  [![Charmander](https://img.pokemondb.net/sprites/black-white/normal/charmander.png)](https://github.com/Nikhil-Singla/the-daily-grind)
-
-</div>
-
 <h1 align="center">🌟 Choose Your Starter! 🌟</h1>
 
-<div align="center">
+<p align="center">
+  
+  <a href="https://github.com/Nikhil-Singla/the-recreational-center">
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png" alt="Bulbasaur"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/squirtle.png" alt="Squirtle"/>
+  </a>
+  &nbsp; &nbsp;   
+  <a href="https://github.com/Nikhil-Singla/the-daily-grind">
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/charmander.png" alt="Charmander"/>
+  </a>
+
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Singla.Nikhil-Singla" alt="visitor badge"/>
-</div>
+</p>
 
 ### 👋 Connect with Me
 
