@@ -3,15 +3,15 @@
 <p align="center">
   
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png" alt="Bulbasaur"/>
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png" alt="Bulbasaur" width="150" height="280"/>
   </a>
   &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/squirtle.png" alt="Squirtle"/>
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/squirtle.png" alt="Squirtle" width="150" height="280"/>
   </a>
   &nbsp; &nbsp;   
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/charmander.png" alt="Charmander"/>
+    <img src="https://img.pokemondb.net/sprites/black-white/normal/charmander.png" alt="Charmander" width="150" height="280"/>
   </a>
 
 </p>
@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      Let's connect and talk tech, projects, or opportunities! Meanwhile, click on your favourite starter to see more of my work.
+      <h3>Let's connect and talk tech, projects, or opportunities! Meanwhile, click on your favourite starter to see more of my work. </h3>
     </td>
   </tr>
 </table>
