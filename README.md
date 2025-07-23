@@ -22,7 +22,7 @@
 
 ### 👋 Connect with Me
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td style="width: 1%; white-space: nowrap;">
       <a href="https://www.linkedin.com/in/nsingla/" target="_blank" rel="noopener noreferrer">
