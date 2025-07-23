@@ -30,7 +30,7 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <h3>Let's connect and talk tech, projects, or opportunities! Meanwhile, click on your favourite starter to see more of my work. </h3>
+      <h3>Let's connect and talk tech, projects, or opportunities! <br> Meanwhile, click on your favourite starter to see more of my work. </h3>
     </td>
   </tr>
 </table>
