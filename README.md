@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
-    <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="150" height="140"/></a>
+    <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="150" height="150"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
-    <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="150" height="150"/></a>
+    <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="135" height="135"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
     <img src="/assets/Charmander.png?raw=true" alt="Charmander" title="Charmander" width="150" height="150"/></a>
