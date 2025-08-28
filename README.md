@@ -1,20 +1,19 @@
-<h1 align="center">🌟 Choose Your Starter! 🌟</h1>
+<h1 align="center">
+  <img src="./assets/pokeball.png" alt="Pokeball" width="40" height="40"/>
+  Click on Your Favourite Starter!<img src="./assets/pokeball.png" alt="Pokeball" width="40" height="40"/>
+</h1>
 
 <p align="center">
-  
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/bulbasaur.png" alt="Bulbasaur" width="150" height="280"/>
-  </a>
+    <img src="./assets/bulbasaur.png" alt="Bulbasaur" width="150" height="150"/></a>
   &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/squirtle.png" alt="Squirtle" width="150" height="280"/>
-  </a>
-  &nbsp; &nbsp;   
+    <img src="./assets/squirtle.png" alt="Squirtle" width="150" height="150"/></a>
+  &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
-    <img src="https://img.pokemondb.net/sprites/black-white/normal/charmander.png" alt="Charmander" width="150" height="280"/>
-  </a>
-
+    <img src="./assets/charmander.png" alt="Charmander" width="150" height="150"/></a>
 </p>
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Singla.Nikhil-Singla" alt="visitor badge"/>
