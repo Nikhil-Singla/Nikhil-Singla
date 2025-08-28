@@ -1,18 +1,21 @@
 <h1 align="center">
-  <img src="./assets/pokeball.png" alt="Pokeball" width="40" height="40"/>
-  Click on Your Favourite Starter!<img src="./assets/pokeball.png" alt="Pokeball" width="40" height="40"/>
+  <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
+  Click on Your Favourite Starter!
+  <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
 </h1>
 
 <p align="center">
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
-    <img src="./assets/bulbasaur.png" alt="Bulbasaur" width="150" height="150"/></a>
-  &nbsp; &nbsp;
+    <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="150" height="140"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
-    <img src="./assets/squirtle.png" alt="Squirtle" width="150" height="150"/></a>
-  &nbsp; &nbsp;
+    <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="150" height="150"/></a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
-    <img src="./assets/charmander.png" alt="Charmander" width="150" height="150"/></a>
+    <img src="/assets/Charmander.png?raw=true" alt="Charmander" title="Charmander" width="150" height="150"/></a>
+    
 </p>
+
 
 
 <p align="center">
@@ -22,16 +25,18 @@
 ### 👋 Connect with Me
 
 <table width="100%" align="center">
-  <tr>
-    <td style="width: 1%; white-space: nowrap;">
-      <a href="https://www.linkedin.com/in/nsingla/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Badge" height="50"/>
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <h3>Let's connect and talk tech, projects, or opportunities! <br> Meanwhile, click on your favourite starter to see more of my work. </h3>
-    </td>
-  </tr>
+<tr>
+  <td>
+    <a href="https://www.linkedin.com/in/nsingla/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+           height="25" 
+           alt="LinkedIn Badge"/>
+    </a>
+  </td>
+  <td>
+    <span>Let's connect and talk tech, projects, or opportunities!</span>
+  </td>
+</tr>
 </table>
 
 ---
