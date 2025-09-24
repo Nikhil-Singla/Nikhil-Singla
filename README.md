@@ -8,7 +8,7 @@
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
     <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="150" height="150"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Nikhil-Singla/the-dev-dossier">
+  <a href="https://github.com/Nikhil-Singla/go-playing-agent">
     <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="135" height="135"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
