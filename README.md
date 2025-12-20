@@ -16,7 +16,7 @@
 
 <h1 align="center">
   <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
-  Click on your favourite Starter to explore more of my works!
+  Choose a Starter to explore more of my works!
   <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
 </h1>
 
