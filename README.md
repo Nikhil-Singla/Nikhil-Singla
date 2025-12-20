@@ -1,18 +1,34 @@
+# Hi, I'm Nikhil Singla! <img src="/assets/waving_hand.gif?raw=true" alt="👋:" title="Hand-wave gif" width="3%" height="3%"/>
+**`Location: California` `Software Developer` `Graduate Student`**
+
+* Writing code since 2016, with a strong focus on problem solving.
+* Graduate Student at the **University of Southern California**.
+* Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
+
+<br>
+
+### 🚀 Current Focus: 
+* **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`.
+* **[Daily LeetCode Practice](https://github.com/Nikhil-Singla/the-daily-grind/tree/main/leetcode) :** Solving one or more data-structures and algorithms problem, every day.
+* **[Go-Playing-AI-Agent](https://github.com/Nikhil-Singla/go-playing-agent) :** Adding features to visualize the working of this AI agent
+
+<br>
+
 <h1 align="center">
   <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
-  Click on Your Favourite Starter!
+  Click on your favourite Starter to explore more of my works!
   <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
 </h1>
 
 <p align="center">
   <a href="https://github.com/Nikhil-Singla/the-recreational-center">
-    <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="150" height="150"/></a>
+    <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="120" height="120"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/go-playing-agent">
-    <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="135" height="135"/></a>
+    <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="100" height="100"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/Nikhil-Singla/the-daily-grind">
-    <img src="/assets/Charmander.png?raw=true" alt="Charmander" title="Charmander" width="150" height="150"/></a>
+    <img src="/assets/Charmander.png?raw=true" alt="Charmander" title="Charmander" width="120" height="120"/></a>
     
 </p>
 
@@ -39,7 +55,7 @@
 </tr>
 </table>
 
----
+<br>
 
 
 ### 🛠 Languages & Tools
@@ -62,7 +78,7 @@
 
 </div>
 
----
+<br>
 
 ### 📈 GitHub Stat
 
