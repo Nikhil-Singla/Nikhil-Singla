@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Singla! <img src="/assets/waving_hand.gif?raw=true" alt="👋:" title="Hand-wave gif" width="3%" height="3%"/>
 **`Location: California` `Software Developer` `Graduate Student`**
 
-* Writing code since 2016, with a strong focus on problem solving.
+* Writing code since 2016, prioritizing problem solving and optimizations!
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
@@ -38,7 +38,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Singla.Nikhil-Singla" alt="visitor badge"/>
 </p>
 
-### 👋 Connect with Me
+### 🤝 Connect with Me
 
 <table width="100%" align="center">
 <tr>
@@ -50,7 +50,7 @@
     </a>
   </td>
   <td>
-    <span>Let's connect and talk tech, projects, or opportunities!</span>
+    <span>Let's connect and talk! Feel free to reach out to me directly, or on my email!</span>
   </td>
 </tr>
 </table>
