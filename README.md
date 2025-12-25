@@ -5,13 +5,12 @@
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
-<br>
 
-### 🚀 Current Focus: 
-* **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`.
+### 👉 Current Focus: 
+* **[Notes-taking-App](https://github.com/Nikhil-Singla/note-taking-application) :** Creating my own app to help me take notes while learning, without being distracted
 * **[Daily LeetCode Practice](https://github.com/Nikhil-Singla/the-daily-grind/tree/main/leetcode) :** Solving one or more data-structures and algorithms problem, every day.
+* **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`, `tkinter`.
 * **[Go-Playing-AI-Agent](https://github.com/Nikhil-Singla/go-playing-agent) :** Adding features to visualize the working of this AI agent
-
 <br>
 
 <h1 align="center">
