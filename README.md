@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Singla! <img src="/assets/waving_hand.gif?raw=true" alt="👋:" title="Hand-wave gif" width="3%" height="3%"/>
 **`Location: California` `Machine Learning Engineer` `Graduate Student`**
 
-* Writing code since 2016, prioritizing problem solving and optimizations as a Software Developer/Machine Learning Engineer!
+* Writing code since 2016, I specialize in optimizations as a Software Developer/Machine Learning Engineer!
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
