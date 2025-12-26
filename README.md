@@ -1,7 +1,7 @@
 # Hi, I'm Nikhil Singla! <img src="/assets/waving_hand.gif?raw=true" alt="👋:" title="Hand-wave gif" width="3%" height="3%"/>
-**`Location: California` `Software Developer` `Graduate Student`**
+**`Location: California` `Machine Learning Engineer` `Graduate Student`**
 
-* Writing code since 2016, prioritizing problem solving and optimizations!
+* Writing code since 2016, prioritizing problem solving and optimizations as a Software Developer/Machine Learning Engineer!
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
@@ -12,6 +12,75 @@
 * **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`, `tkinter`.
 * **[Go-Playing-AI-Agent](https://github.com/Nikhil-Singla/go-playing-agent) :** Adding features to visualize the working of this AI agent
 <br>
+
+### 💻 Tech Stack
+
+<div align="center" style="margin-bottom:22px;">
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>ML/AI Modules</th>
+    <th>Cloud & DevOps</th>
+  </tr>
+  <tr>
+    <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="20" alt="C++" />
+          C++<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" alt="Python"/>
+          Python<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20" alt="MySQL" />
+          MySQL <br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20" alt="HTML5"/>
+          HTML/CSS<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" />
+          JavaScript   <br>
+    </td>
+    <td>
+          <br>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="20" alt="NumPy" />
+          NumPy<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="20" alt="Pandas" />
+          Pandas<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" height="20" alt="OpenCV" />
+          OpenCV<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="20" alt="PyTorch" />
+          PyTorch<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="20" alt="Jupyter" />
+          Jupyter<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="20" alt="TensorFlow" />
+          TensorFlow<br>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="20" alt="scikit-learn" />
+          scikit&#8209;learn   <br>
+    </td>
+    <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="20" alt="Linux" />
+          Linux<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="20" alt="Docker" />
+          Docker<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="20" alt="Kubernetes" />
+          Kubernetes<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="20" alt="Google Cloud" />
+          Google&nbsp;Cloud<br>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="20" alt="GitHub"/>
+          GitHub&nbsp;Actions   <br>
+    </td>
+  </tr>
+  
+</table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>To connect with me, or see my certificates:</td>
+      <td>
+        <a href="https://www.linkedin.com/in/nsingla/" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" style="margin-right: 15px; margin-top: 15px;" alt="LinkedIn Badge"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <h1 align="center">
   <img src="/assets/pokeball.jpg?raw=true" alt="Pokeball" title="Pokeball" width="40" height="40"/>
@@ -37,47 +106,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Singla.Nikhil-Singla" alt="visitor badge"/>
 </p>
 
-### 🤝 Connect with Me
-
-<table width="100%" align="center">
-<tr>
-  <td>
-    <a href="https://www.linkedin.com/in/nsingla/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-           height="25" 
-           alt="LinkedIn Badge"/>
-    </a>
-  </td>
-  <td>
-    <span>Let's connect and talk! Feel free to reach out to me directly, or on my email!</span>
-  </td>
-</tr>
-</table>
-
 <br>
 
 
-### 🛠 Languages & Tools
-
-<div align="center">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
-
-</div>
-
-<br>
 
 ### 📈 GitHub Stat
 
@@ -87,13 +118,6 @@
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Singla&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="200" />
       </td>
-<!--
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Singla&show_icons=true&theme=dracula&count_private=true&hide_border=true&hide_rank=false" height="200" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=Nikhil-Singla&theme=dark&hide_border=true&border_radius=5" height="200" />
-      </td> -->
     </tr>
   </table>
 </div>
