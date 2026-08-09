@@ -7,9 +7,9 @@
 
 
 ### 👉 Current Focus: 
+* **[My Blog!](https://nikhil-singla.github.io/) :** Check it out ~ It's a comprehensive review of me as a developer! You can find my coding process, my links and my resume all in one location!
 * **[Notes-taking-App](https://github.com/Nikhil-Singla/note-taking-application) :** Creating my own app to help me take notes while learning, without being distracted
 * **[Daily LeetCode Practice](https://github.com/Nikhil-Singla/the-daily-grind/tree/main/leetcode) :** Solving one or more data-structures and algorithms problem, every day.
-* **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`, `tkinter`.
 * **[Go-Playing-AI-Agent](https://github.com/Nikhil-Singla/go-playing-agent) :** Adding features to visualize the working of this AI agent
 <br>
 
