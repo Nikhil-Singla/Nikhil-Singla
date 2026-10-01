@@ -5,8 +5,8 @@
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
-### 👉 Current Focus
-* **[My Blog](https://nikhil-singla.github.io/)**: My coding process, links, and resume in one place.
+### 👉 Details About Me
+* **[My Blog](https://nikhil-singla.github.io/)**: You can find my coding process, links, and resume, all in one place!
 <br>
 
 ### 💻 Tech Stack
@@ -100,18 +100,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Nikhil-Singla.Nikhil-Singla" alt="visitor badge"/>
 </p>
-
-<br>
-
-
-### 📈 GitHub Stat
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil-Singla&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
