@@ -6,8 +6,7 @@
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
 ### 👉 Details About Me
-* **[My Blog](https://nikhil-singla.github.io/)**: You can find my coding process, links, and resume, all in one place!
-<br>
+> You can find my coding process, links, and resume, all in one place:  **[My Blog](https://nikhil-singla.github.io/)**
 
 ### 💻 Tech Stack
 
