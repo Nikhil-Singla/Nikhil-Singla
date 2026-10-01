@@ -5,12 +5,8 @@
 * Graduate Student at the **University of Southern California**.
 * Contact: **[nsingla3.14@gmail.com](mailto:nsingla3.14@gmail.com)**
 
-
-### 👉 Current Focus: 
-* **[Notes-taking-App](https://github.com/Nikhil-Singla/note-taking-application) :** Creating my own app to help me take notes while learning, without being distracted
-* **[Daily LeetCode Practice](https://github.com/Nikhil-Singla/the-daily-grind/tree/main/leetcode) :** Solving one or more data-structures and algorithms problem, every day.
-* **[Python Modules](https://github.com/Nikhil-Singla/the-recreational-center/tree/main/understanding-modules) :** Exploring the internal mechanisms of Python modules. Latest Module: `pynput`, `tkinter`.
-* **[Go-Playing-AI-Agent](https://github.com/Nikhil-Singla/go-playing-agent) :** Adding features to visualize the working of this AI agent
+### 👉 Current Focus
+* **[My Blog](https://nikhil-singla.github.io/)**: My coding process, links, and resume in one place.
 <br>
 
 ### 💻 Tech Stack
@@ -89,17 +85,16 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Nikhil-Singla/the-recreational-center">
+  <a href="https://nikhil-singla.github.io/">
     <img src="/assets/Bulbasaur.png?raw=true" alt="Bulbasaur" title="Bulbasaur" width="120" height="120"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Nikhil-Singla/go-playing-agent">
+  <a href="https://github.com/Nikhil-Singla/the-daily-grind/tree/main/leetcode">
     <img src="/assets/Squirtle.png?raw=true" alt="Squirtle" title="Squirtle" width="100" height="100"/></a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/Nikhil-Singla/the-daily-grind">
+  <a href="https://github.com/Nikhil-Singla/the-recreational-center">
     <img src="/assets/Charmander.png?raw=true" alt="Charmander" title="Charmander" width="120" height="120"/></a>
     
 </p>
-
 
 
 <p align="center">
@@ -107,7 +102,6 @@
 </p>
 
 <br>
-
 
 
 ### 📈 GitHub Stat
